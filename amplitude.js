@@ -148,7 +148,7 @@ module.exports = {
 
   bindings: {},
 
-  continue_next: true,
+  continue_next: false,
 
   delay: 0,
 
