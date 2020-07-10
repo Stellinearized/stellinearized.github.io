@@ -2,7 +2,7 @@
 <html>
 <head>
 	<meta charset="UTF-8"> 
-	<title>CYOA</title>
+	<title>Abyss Diver Background Music</title>
 	<style>
 <link href="stellinearized.github.io/dist/calamansi.min.css" rel="stylesheet" />
 		* {
@@ -136,6 +136,27 @@ li {
 			<div id="option-0-0" class="option  ">
 				<div class="option-description description">
 					<p>123</p>
+					Amplitude.init({
+		songs: [
+			{
+				"name": "Layer 1",
+				"artist": "Artist Name",
+				"album": "Album Name",
+				"url": "/stellinearized.github.io/Ouran High School Host Club OP (English).mp3",
+				"cover_art_url": "/cover/art/url.jpg"
+			},
+			{
+				"name": "Layer 2",
+				"artist": "Artist Name",
+				"album": "Album Name",
+				"url": "stellinearized.github.io/ERASED OP.mp3",
+				"cover_art_url": "/cover/art/url.jpg"
+			},
+		
+		]
+	});
+					
+					
 <div style="width: 300px; height: 300px;">
     <div id="calamansi-player-1">
         Loading player...
@@ -152,7 +173,7 @@ li {
 		</div>
 	</section>
 	
-	
+	<script src="stellinearized.github.io/amplitude.js"></script>
 <script src="stellinearized.github.io/dist/calamansi.min.js"></script>
 <script>
     new Calamansi(document.querySelector('#calamansi-player-1'), {
