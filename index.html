@@ -135,7 +135,7 @@ li {
 		<div class="options top-images row3">
 			<div id="option-0-0" class="option  ">
 				<div class="option-description description">
-					<p>aaaaaaaabbccddee</p>
+					<p>1</p>
 <div style="width: 300px; height: 300px;">
     <div id="calamansi-player-1">
         Loading player...
@@ -168,16 +168,13 @@ li {
             ],
         },
         defaultAlbumCover: '/path/to/skins/default-album-cover.png',
-	    loop: true,
+
+	        enableKeystrokes: true,
     });
 </script>
 	<script>
-var player = new Calamansi(document.querySelector('#calamansi-player-1'), {
-    skin: 'stellinearized.github.io/dist/skins/ayon/'
-});
-
-player.on('trackEnded', function (player) {
-audio.playFromStart()
+CalamansiEvents.on('trackEnded', function (player) {
+   player.currentTrack()
 });
 	</script>
 	
