@@ -5,81 +5,81 @@
     url: "stellinearized.github.io/1 Above the Treetops.mp3",
     author: "Jun-Hee Lee - Maplestory",
     title: "Page 1 - Above the Treetops (Lith Harbor)",
-    cover: "http://cdn.atrera.com/images/cover_yz2mak.jpg" },
+    cover: "stellinearized.github.io/1.png" },
 
   {
     id: 2,
     url: "stellinearized.github.io/2 Tropos by Day.mp3",
     author: "Jonathan Geer - Owlboy",
     title: "Page 2 - Tropos by Day",
-    cover: "xxxxxx" },
+    cover: "stellinearized.github.io/2.png" },
 
   {
     id: 3,
     url: "stellinearized.github.io/3 City of Tears.mp3",
     author: "Christopher Larkin - Hollow Knight",
     title: "Page 3 - City of Tears",
-    cover: "http://cdn.atrera.com/images/cover_yz2mak.jpg" },
+    cover: "stellinearized.github.io/3.png" },
 
   {
     id: 4,
     url: "stellinearized.github.io/4 Ancient Barrow.mp3",
     author: "Keisuke Ito - Pokémon Super Mystery Dungeon",
     title: "Page 4 - Ancient Barrow",
-    cover: "http://cdn.atrera.com/images/cover_yz2mak.jpg" },
+    cover: "stellinearized.github.io/4.png" },
 
   {
     id: 5,
     url: "stellinearized.github.io/5 Ice Ruins.mp3",
     author: "Ryo Nagamatsu - The Legend of Zelda: A Link Between Worlds",
     title: "Page 5 - Ice Ruins",
-    cover: "http://cdn.atrera.com/images/cover_yz2mak.jpg" },
+    cover: "stellinearized.github.io/5.png" },
 
   {
     id: 6,
     url: "stellinearized.github.io/6 Casiopeia.mp3",
     author: "Curtis Schweitzer - Starbound",
     title: "Page 6 - Casiopeia",
-    cover: "http://cdn.atrera.com/images/cover_yz2mak.jpg" },
+    cover: "stellinearized.github.io/6.png" },
 
   {
     id: 7,
     url: "stellinearized.github.io/7 Ginnungagap.mp3",
     author: "Motoi Sakuraba - Tales of Symphonia: Dawn of the New World",
     title: "Page 7 - Ginnungagap ~Rip in the world~",
-    cover: "http://cdn.atrera.com/images/cover_yz2mak.jpg" },
+    cover: "stellinearized.github.io/7.png" },
 
   {
     id: 8,
     url: "stellinearized.github.io/8 You've Got Me.mp3",
     author: "Michael Kelly - VA-11 Hall-A",
     title: "Page 8 - You've Got Me",
-    cover: "http://cdn.atrera.com/images/cover_yz2mak.jpg" },
+    cover: "stellinearized.github.io/8.png" },
 
   {
     id: 9,
     url: "stellinearized.github.io/9 Sunken Ruin.mp3",
     author: "nK - Momodora: Reverie Under the Moonlight",
     title: "Page 9 - Sunken Ruin",
-    cover: "http://cdn.atrera.com/images/cover_yz2mak.jpg" },
+    cover: "stellinearized.github.io/9.png" },
   {
     id: 10,
     url: "stellinearized.github.io/10 Quiet and Falling.mp3",
     author: "Lena Raine - Celeste",
     title: "Page 10 - Quiet and Falling",
-    cover: "http://cdn.atrera.com/images/cover_yz2mak.jpg" },
+    cover: "stellinearized.github.io/10.png" },
   {
     id: 11,
     url: "stellinearized.github.io/11 Swings and Roundabouts.mp3",
     author: "Kevin Penkin - Made in Abyss",
     title: "Page 11 - Swings and Roundabouts",
-    cover: "http://cdn.atrera.com/images/cover_yz2mak.jpg" },
+    cover: "stellinearized.github.io/11.png" },
   {
     id: 12,
     url: "stellinearized.github.io/12 Shinin' Harbor.mp3",
     author: "Jun-Hee Lee - Maplestory",
     title: "Page 12 - Shinin' Harbor (Orbis)",
-    cover: "http://cdn.atrera.com/images/cover_yz2mak.jpg" }];
+    cover: "stellinearized.github.io/12.png" }];
 
 
 
