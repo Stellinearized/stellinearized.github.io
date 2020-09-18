@@ -2,65 +2,83 @@
   const list = [
   {
     id: 1,
-    url: "http://cdn.atrera.com/audio/Marcel_Pequel_-_02_-_Two.mp3",
-    author: "Marcel Pequel",
+    url: "stellinearized.github.io/1 Above the Treetops.mp3",
+    author: "Jun-Hee Lee - Maplestory",
     title: "Page 1 - Above the Treetops (Lith Harbor)",
     cover: "http://cdn.atrera.com/images/cover_yz2mak.jpg" },
 
   {
     id: 2,
-    url: "http://cdn.atrera.com/audio/Marcel_Pequel_-_02_-_Two.mp3",
-    author: "Marcel Pequel",
-    title: "Two",
-    cover: "http://cdn.atrera.com/images/cover_yz2mak.jpg" },
+    url: "stellinearized.github.io/2 Tropos by Day.mp3",
+    author: "Jonathan Geer - Owlboy",
+    title: "Page 2 - Tropos by Day",
+    cover: "xxxxxx" },
 
   {
     id: 3,
     url: "http://cdn.atrera.com/audio/Marcel_Pequel_-_03_-_Three.mp3",
-    author: "Marcel Pequel",
-    title: "Three",
+    author: "Christopher Larkin - Hollow Knight",
+    title: "Page 3 - City of Tears",
     cover: "http://cdn.atrera.com/images/cover_yz2mak.jpg" },
 
   {
     id: 4,
     url: "http://cdn.atrera.com/audio/Marcel_Pequel_-_04_-_Four.mp3",
-    author: "Marcel Pequel",
-    title: "Four",
+    author: "Keisuke Ito - Pokémon Super Mystery Dungeon",
+    title: "Page 4 - Ancient Barrow",
     cover: "http://cdn.atrera.com/images/cover_yz2mak.jpg" },
 
   {
     id: 5,
     url: "http://cdn.atrera.com/audio/Marcel_Pequel_-_05_-_Five.mp3",
-    author: "Marcel Pequel",
-    title: "Five",
+    author: "Ryo Nagamatsu - The Legend of Zelda: A Link Between Worlds",
+    title: "Page 5 - Ice Ruins",
     cover: "http://cdn.atrera.com/images/cover_yz2mak.jpg" },
 
   {
     id: 6,
     url: "http://cdn.atrera.com/audio/Marcel_Pequel_-_06_-_Six.mp3",
-    author: "Marcel Pequel",
-    title: "Six",
+    author: "Curtis Schweitzer - Starbound",
+    title: "Page 6 - Casiopeia",
     cover: "http://cdn.atrera.com/images/cover_yz2mak.jpg" },
 
   {
     id: 7,
     url: "http://cdn.atrera.com/audio/Marcel_Pequel_-_07_-_Seven.mp3",
-    author: "Marcel Pequel",
-    title: "Seven",
+    author: "Motoi Sakuraba - Tales of Symphonia: Dawn of the New World",
+    title: "Page 7 - Ginnungagap ~Rip in the world~",
     cover: "http://cdn.atrera.com/images/cover_yz2mak.jpg" },
 
   {
     id: 8,
     url: "http://cdn.atrera.com/audio/Marcel_Pequel_-_08_-_Eight.mp3",
-    author: "Marcel Pequel",
-    title: "Eight",
+    author: "Michael Kelly - VA-11 Hall-A",
+    title: "Page 8 - You've Got Me",
     cover: "http://cdn.atrera.com/images/cover_yz2mak.jpg" },
 
   {
     id: 9,
     url: "http://cdn.atrera.com/audio/Marcel_Pequel_-_09_-_Nine.mp3",
-    author: "Marcel Pequel",
-    title: "Nine",
+    author: "nK - Momodora: Reverie Under the Moonlight",
+    title: "Page 9 - Sunken Ruin",
+    cover: "http://cdn.atrera.com/images/cover_yz2mak.jpg" },
+  {
+    id: 10,
+    url: "http://cdn.atrera.com/audio/Marcel_Pequel_-_09_-_Nine.mp3",
+    author: "Lena Raine - Celeste",
+    title: "Page 10 - Quiet and Falling",
+    cover: "http://cdn.atrera.com/images/cover_yz2mak.jpg" },
+  {
+    id: 11,
+    url: "http://cdn.atrera.com/audio/Marcel_Pequel_-_09_-_Nine.mp3",
+    author: "Kevin Penkin - Made in Abyss",
+    title: "Page 11 - Swings and Roundabouts",
+    cover: "http://cdn.atrera.com/images/cover_yz2mak.jpg" },
+  {
+    id: 12,
+    url: "http://cdn.atrera.com/audio/Marcel_Pequel_-_09_-_Nine.mp3",
+    author: "Jun-Hee Lee - Maplestory",
+    title: "Page 12 - Shinin' Harbor (Orbis)",
     cover: "http://cdn.atrera.com/images/cover_yz2mak.jpg" }];
 
 
