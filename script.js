@@ -59,7 +59,7 @@
   {
     id: 9,
     url: "stellinearized.github.io/9 Sunken Ruin.mp3",
-    author: "nK - Momodora: Reverie Under the Moonlight",
+    author: "notoriousKnave - Momodora: Reverie Under the Moonlight",
     title: "Page 9 - Sunken Ruin",
     cover: "stellinearized.github.io/9.png" },
   {
