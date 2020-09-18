@@ -111,7 +111,7 @@
     if (!isPlaying) {
       // console.log('play');
       e.target.src =
-      "https://snowleo208.github.io/100-Days-of-Code/7.%20Music%20Player/img/pause.svg";
+      "stellinearized.github.io/pause.png";
       e.target.alt = "Pause";
       isPlaying = true;
       document.getElementById(currentAudio).play();
@@ -119,7 +119,7 @@
     } else {
       // console.log('pause');
       e.target.src =
-      "https://snowleo208.github.io/100-Days-of-Code/7.%20Music%20Player/img/play.svg";
+      "stellinearized.github.io/play.png";
       e.target.alt = "Play";
       document.getElementById(currentAudio).pause();
       isPlaying = false;
@@ -157,7 +157,7 @@
 
   function nextMusic(mode) {
     playBtn.src =
-    "https://snowleo208.github.io/100-Days-of-Code/7.%20Music%20Player/img/play.svg";
+    "stellinearized.github.io/play.png";
     playBtn.alt = "Play";
     document.getElementById(currentAudio).pause();
     isPlaying = false;
@@ -177,7 +177,7 @@
 
     // console.log('play');
     playBtn.src =
-    "https://snowleo208.github.io/100-Days-of-Code/7.%20Music%20Player/img/pause.svg";
+    "stellinearized.github.io/pause.png";
     playBtn.alt = "Pause";
     isPlaying = true;
     document.getElementById(currentAudio).play();
@@ -211,7 +211,7 @@
 
   function stopMusic() {
     playBtn.src =
-    "https://snowleo208.github.io/100-Days-of-Code/7.%20Music%20Player/img/play.svg";
+    "stellinearized.github.io/play.png";
     playBtn.alt = "Play";
     isPlaying = false;
   }
