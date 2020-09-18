@@ -2,9 +2,9 @@
   const list = [
   {
     id: 1,
-    url: "http://cdn.atrera.com/audio/Marcel_Pequel_-_01_-_One.mp3",
+    url: "stellinearized.github.io/script.js",
     author: "Marcel Pequel",
-    title: "One",
+    title: "Page 1 - Above the Treetops (Lith Harbor)",
     cover: "http://cdn.atrera.com/images/cover_yz2mak.jpg" },
 
   {
