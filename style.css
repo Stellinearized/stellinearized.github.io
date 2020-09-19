@@ -50,6 +50,9 @@ div,
 section {
   box-sizing: border-box;
 }
+.normal {
+  box-sizing:default;
+}
 
 .c-containter {
   display: -webkit-box;
