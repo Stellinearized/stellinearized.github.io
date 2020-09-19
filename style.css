@@ -41,7 +41,7 @@ body {
   padding: 0;
   min-width: 100vw;
   min-height: 100vh;
-  background-color: darkgray;
+  background-color: rgb(26, 26, 26);
   align:center;
 text-align:center;
 }
