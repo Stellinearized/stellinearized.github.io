@@ -46,6 +46,17 @@ body {
 text-align:center;
 }
 
+.description-wrapper {
+	padding: 16px;
+}
+.description-wrapper .description {
+	margin: auto;
+	width: auto;
+}
+
+.description p {
+	margin: 16px 0;
+}
 div,
 section {
   box-sizing: border-box;
