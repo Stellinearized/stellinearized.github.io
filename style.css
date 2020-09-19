@@ -42,6 +42,8 @@ body {
   min-width: 100vw;
   min-height: 100vh;
   background-color: darkgray;
+  align:center;
+text-align:center;
 }
 
 div,
@@ -49,7 +51,7 @@ section {
   box-sizing: border-box;
 }
 .normal {
-  box-sizing:default;
+  box-sizing: default;
 }
 
 .c-containter {
