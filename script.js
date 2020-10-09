@@ -11,7 +11,7 @@
     id: 2,
     url: "stellinearized.github.io/2 Tropos by Day.mp3",
     author: "Jonathan Geer - Owlboy",
-    title: "Page 2 - Tropos by Day",
+    title: "Page 2 - Tropos By Day",
     cover: "stellinearized.github.io/2.png" },
 
   {
@@ -76,9 +76,9 @@
     cover: "stellinearized.github.io/11.png" },
   {
     id: 12,
-    url: "stellinearized.github.io/12 Shinin' Harbor.mp3",
+    url: "stellinearized.github.io/12 Come With Me.mp3",
     author: "Jun-Hee Lee - Maplestory",
-    title: "Page 12 - Shinin' Harbor (Orbis)",
+    title: "Page 12 - Come With Me (Orbis Tower)",
     cover: "stellinearized.github.io/12.png" }];
 
 
