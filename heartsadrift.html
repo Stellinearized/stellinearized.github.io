@@ -44,7 +44,7 @@ img {
   padding-top:8px;
   text-decoration: none;
 	text-align:left;
-  font-size: 18px;
+  font-size: 15px;
   /*color: #818181;*/
   display: block;
 }
@@ -59,8 +59,8 @@ img {
   </style>
 <body>
 <div class="sidenav">
-	Jump to...<br>
-	
+	Jump to...<br><a title="Click to show/hide navigator" type="a" onclick="if(document.getElementById('navigator') .style.display=='none') {document.getElementById('navigator') .style.display=''}else{document.getElementById('navigator') .style.display='none'}">X</a>
+	<div id="navigator>"> 
 <a href="#page1"><b>Page 1</b></a>
 <a href="#page2"><b>Page 2 (Ruby)</b></a>
 <a href="#page3"><b>Page 3 (Lily)</b></a>
@@ -71,6 +71,7 @@ img {
 <a href="#page8"><b>Page 8 (Cirrus)</b></a>
 <a href="#page9"><b>Page 9 (Phoebe)</b></a>
 <a href="#page10"><b>Page 10 (Polaris)</b></a>
+	</div>
 </div>
   <section id="section-1" class=" ">
 			<div class="section-description description">
