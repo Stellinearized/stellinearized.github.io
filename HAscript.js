@@ -32,52 +32,52 @@
     {
       //https://raw.githubusercontent.com/Stellinearized/stellinearized.github.io/master/1%20Mafia%20Town%20is%20Asleep.mp3
       name:"Page 1 <br> Mafia Town is Asleep",
-      file:"https://stellinearized.github.io/1 Mafia Town is Asleep.mp3",
+      file:"/1 Mafia Town is Asleep.mp3",
       duration:"Pascal Michael Stiefel <br> A Hat in Time"
     },
     {
       name:"Page 2 (Ruby) <br> Mines (The Lava Dwellers)",
-      file:"https://stellinearized.github.io/2 Mines (The Lava Dwellers).mp3",
+      file:"/2 Mines (The Lava Dwellers).mp3",
       duration:"Eric Barone <br> Stardew Valley"
     },
     {
       name:"Page 3 (Lily) <br> 2 Months",
-      file:"https://stellinearized.github.io/3 2 Months.mp3",
+      file:"/3 2 Months.mp3",
       duration:"Kevin Penkin <br> Made in Abyss"
     },
     {
       name:"Page 4 (Aster) <br> Beautiful Lie",
-      file:"https://stellinearized.github.io/4 Beautiful Lie.mp3",
+      file:"/4 Beautiful Lie.mp3",
       duration:"Masafumi Takada <br> Danganronpa V3: Killing Harmony"
     },
     {
       name:"Page 5 (Vivian) <br> A Cargo of Fineries",
-      file:"https://stellinearized.github.io/5 A Cargo of Fineries.mp3",
+      file:"/5 A Cargo of Fineries.mp3",
       duration:"Jake Kaufman <br> Shovel Knight: Specter of Torment"
     },
     {
       name:"Page 6 (Dante) <br> Mushi",
-      file:"https://stellinearized.github.io/6 Mushi.mp3",
+      file:"/6 Mushi.mp3",
       duration:"Toshio Masuda <br> Mushishi"
     },
     {
       name:"Page 7 (Natsume) <br> Road Taken (Roar/Calm Mix)",
-      file:"https://stellinearized.github.io/7 Road Taken (RoarCalm Mix).mp3",
+      file:"/7 Road Taken (RoarCalm Mix).mp3",
       duration:"Takeru Kanazaki <br> Fire Emblem Fates"
     },
     {
       name:"Page 8 (Cirrus) <br> Kingdom of Uraya (Night)",
-      file:"https://stellinearized.github.io/8 Kingdom of Uraya (Night).mp3",
+      file:"/8 Kingdom of Uraya (Night).mp3",
       duration:"Kenji Hiramatsu <br> Xenoblade Chronicles 2"
     },
     {
       name:"Page 9 (Phoebe) <br> Bottom of the Well",
-      file:"https://stellinearized.github.io/9 Bottom of the Well.mp3",
+      file:"/9 Bottom of the Well.mp3",
       duration:"Eirik Suhrke <br> Spelunky 2"
     },
     {
       name:"Page 10 (Polaris) <br> Years of Work",
-      file:"https://stellinearized.github.io/10 Years of Work.mp3",
+      file:"/10 Years of Work.mp3",
       duration:"Kyle Gabler <br> World of Goo"
     }
     
