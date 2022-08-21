@@ -72,7 +72,7 @@
     {
       name:"Page 9 (Aria) <br> Temporal Piano",
       file:"/9 Temporal Piano.mp3",
-      duration:"Erik "Jit" Scheele <br> Homestuck"
+      duration:"Erik Scheele <br> Homestuck"
     },
     {
       name:"Bonus Page (Multiplayer Mode) <br> once we were",
