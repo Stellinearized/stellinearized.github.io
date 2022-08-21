@@ -30,7 +30,6 @@
 
   var listAudio = [
     {
-      //https://raw.githubusercontent.com/Stellinearized/stellinearized.github.io/master/1%20Mafia%20Town%20is%20Asleep.mp3
       name:"Page 1 <br> something, everything is wrong",
       file:"/1 something, everything is wrong.mp3",
       duration:"Yuki Kajiura <br> Mahou Shoujo Madoka Magica: Rebellion"
