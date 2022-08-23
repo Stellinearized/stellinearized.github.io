@@ -30,7 +30,6 @@
 
   var listAudio = [
     {
-      //https://raw.githubusercontent.com/Stellinearized/stellinearized.github.io/master/1%20Mafia%20Town%20is%20Asleep.mp3
       name:"Page 1 <br> something, everything is wrong",
       file:"/1 something, everything is wrong.mp3",
       duration:"Yuki Kajiura <br> Mahou Shoujo Madoka Magica: Rebellion"
@@ -73,7 +72,7 @@
     {
       name:"Page 9 (Aria) <br> Temporal Piano",
       file:"/9 Temporal Piano.mp3",
-      duration:"Erik "Jit" Scheele <br> Homestuck"
+      duration:"Erik Scheele <br> Homestuck"
     },
     {
       name:"Bonus Page (Multiplayer Mode) <br> once we were",
